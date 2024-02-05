@@ -72,6 +72,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ertugrulcihatcakir/ertugrulcihatcakir/snake.svg" alt="Snake animation" />
-
 ###
