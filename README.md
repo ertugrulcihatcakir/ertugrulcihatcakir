@@ -72,6 +72,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ertugrulcihatcakir/ertugrulcihatcakir/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/ertugrulcihatcakir/ertugrulcihatcakir/output/snake.svg](https://github.com/ertugrulcihatcakir/ertugrulcihatcakir/blob/main/snake.yml)https://github.com/ertugrulcihatcakir/ertugrulcihatcakir/blob/main/snake.yml" alt="Snake animation" />
 
 ###
