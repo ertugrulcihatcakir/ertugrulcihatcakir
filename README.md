@@ -10,6 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/52745076?v=4"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ertugrulcihatcakir&label=Profile%20views&color=0e75b6&style=flat" alt="ertugrulcihatcakir" /> </p>
 
 ###
 
