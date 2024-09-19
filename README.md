@@ -10,7 +10,6 @@
 ###
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/52745076?v=4"  />
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 
 ###
 
